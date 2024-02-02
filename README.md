@@ -1,9 +1,7 @@
 <h1 align="center">im DeadLys</h1>
-<h3 align="center">My Hobby destroying devices.</h3>
+<h3 align="center">https://guns.lol/bt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=187l&label=Profile%20views&color=0e75b6&style=flat" alt="187l" /> </p>
-
-- Fuck **you.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
